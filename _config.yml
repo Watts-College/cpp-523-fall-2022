@@ -8,13 +8,13 @@
 github_info:
     username:          DS4PS 
     branch:            master
-    website-repo:      cpp-523-template
-    course-repo:       cpp-523-template
+    website-repo:      cpp-523-fall-2022
+    course-repo:       cpp-523-fall-2022
 
 # Site subpath, e.g. /blog
 url :               "https://watts-college.github.io/"
-baseurl:            "/cpp-523-template"
-course_url:         "https://watts-college.github.io/cpp-523-template/"
+baseurl:            "/cpp-523-fall-2022"
+course_url:         "https://watts-college.github.io/cpp-523-fall-2022/"
 
 
 # NAVIGATION BAR
@@ -27,17 +27,6 @@ brand:
     # in the default html file add extra fav icons to header for parts II and III
 
 # Main website top navigation bar
-header:
-- title: Syllabus
-  url: 
-- title: Course Schedule
-  url: schedule/
-- title: Resources 
-  url: resources/
-# - title: Review Sessions 
-#  url: review/
-- title: Get Help
-  url: help/
 
 
 calendly:  'mailto:david.schlinkert@asu.edu'
